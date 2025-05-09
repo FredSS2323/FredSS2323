@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Frederico 
+# 👋 Olá! Eu sou o Frederico 
 🎓 Estudante de Engenharia de Computação  
 💻 Desenvolvedor C# | Experiência com .NET e migração de dados  
 🔐 Estudando Cibersegurança com foco em prevenção e análise forense  
