@@ -1,30 +1,17 @@
-<h1 align="center">Frederico S. — Desenvolvedor Fullstack & Arquiteto de Soluções em Formação</h1>
+# 👋 E aí, tudo certo? Eu sou o Frederico.
 
-
----
-
-## 🧠 Quem eu sou
-
-Sou o tipo de desenvolvedor que não espera a solução vir pronta — eu **crio a solução**.  
-
-Atuo como **Fullstack Developer com mentalidade de Engenheiro de Software**.
-**Entendo o que precisa ser feito, estruturo, e entrego com clareza e eficiência.**
-
-Aprendo qualquer tecnologia que o projeto exigir, porque minha base é sólida: **raciocínio lógico, domínio técnico e responsabilidade no código**.
-
-Se o problema é complexo, melhor ainda. É onde eu funciono melhor.
+Sou desenvolvedor fullstack com foco em resolver problemas reais.
+Gosto de codar, mas mais ainda de **entender o que o sistema precisa fazer** e entregar algo que funcione de verdade.
 
 ---
 
-## 💼 O que eu entrego
+## 👨‍💻 Um pouco sobre mim
 
-✅ Sistemas robustos com regras reais de negócio    
-✅ Front-ends funcionais e objetivos  
-✅ Código limpo, versionado e documentado  
-✅ Visão completa do projeto: negócio, arquitetura e manutenção
+- Estudante de Engenharia de Computação
+- Curioso, autodidata e direto ao ponto
+- Aprendo rápido e gosto de transformar lógica em código útil
 
 ---
-
 ## 🚀 Stack de batalha
 
 ### **Back-end**
@@ -78,15 +65,6 @@ Se o problema é complexo, melhor ainda. É onde eu funciono melhor.
 </div>
 
 ---
-
-## 🎯 Objetivo
-
-Meu objetivo é claro:  
-**ser o cara que as pessoas chamam quando o sistema trava e a regra de negócio parece impossível.**
-
-Eu não coleciono linguagens — coleciono soluções.  
-**E cada linha que eu escrevo carrega propósito técnico e visão de produto.**
-
 
 ## 📊 Minhas estatísticas no GitHub
 
