@@ -7,7 +7,7 @@
 
 Sou o tipo de desenvolvedor que não espera a solução vir pronta — eu **crio a solução**.  
 
-Atuo como **Fullstack Developer com mentalidade de Engenheiro de Software**. Não importa se é regra tributária, migração de dados ou integração entre sistemas: **entendo o que precisa ser feito, estruturo, e entrego com clareza e eficiência.**
+Atuo como **Fullstack Developer com mentalidade de Engenheiro de Software**.**Entendo o que precisa ser feito, estruturo, e entrego com clareza e eficiência.**
 
 Aprendo qualquer tecnologia que o projeto exigir, porque minha base é sólida: **raciocínio lógico, domínio técnico e responsabilidade no código**.
 
@@ -78,3 +78,13 @@ Se o problema é complexo, melhor ainda. É onde eu funciono melhor.
 
 Meu foco é claro:  
 **Desenvolver soluções que resolvem problemas reais e gerar impacto **
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FredSS2323&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="128" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FredSS2323&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
