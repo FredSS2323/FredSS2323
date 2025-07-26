@@ -3,7 +3,6 @@
 Sou desenvolvedor fullstack com foco em resolver problemas reais.
 Gosto de codar, mas mais ainda de **entender o que o sistema precisa fazer** e entregar algo que funcione de verdade.
 
----
 
 ## 👨‍💻 Um pouco sobre mim
 
@@ -11,8 +10,7 @@ Gosto de codar, mas mais ainda de **entender o que o sistema precisa fazer** e e
 - Curioso, autodidata e direto ao ponto
 - Aprendo rápido e gosto de transformar lógica em código útil
 
----
-## 🚀 Stack de batalha
+## 🚀 Stacks de batalha
 
 ### **Back-end**
 
