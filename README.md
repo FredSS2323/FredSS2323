@@ -7,7 +7,8 @@
 
 Sou o tipo de desenvolvedor que não espera a solução vir pronta — eu **crio a solução**.  
 
-Atuo como **Fullstack Developer com mentalidade de Engenheiro de Software**.**Entendo o que precisa ser feito, estruturo, e entrego com clareza e eficiência.**
+Atuo como **Fullstack Developer com mentalidade de Engenheiro de Software**.
+**Entendo o que precisa ser feito, estruturo, e entrego com clareza e eficiência.**
 
 Aprendo qualquer tecnologia que o projeto exigir, porque minha base é sólida: **raciocínio lógico, domínio técnico e responsabilidade no código**.
 
@@ -26,8 +27,8 @@ Se o problema é complexo, melhor ainda. É onde eu funciono melhor.
 
 ## 🚀 Stack de batalha
 
-**Back-end**
-##
+### **Back-end**
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -40,8 +41,8 @@ Se o problema é complexo, melhor ainda. É onde eu funciono melhor.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
 
-**Front-end**
-##
+### **Front-end**
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -52,8 +53,8 @@ Se o problema é complexo, melhor ainda. É onde eu funciono melhor.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
-**Bancos**
-##
+### **Bancos**
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -66,8 +67,8 @@ Se o problema é complexo, melhor ainda. É onde eu funciono melhor.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
 
-**Ferramentas**
-##
+### **Ferramentas**
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
