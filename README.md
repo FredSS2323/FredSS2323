@@ -81,9 +81,11 @@ Se o problema é complexo, melhor ainda. É onde eu funciono melhor.
 
 ## 🎯 Objetivo
 
-Meu foco é claro:  
-**Desenvolver soluções que resolvem problemas reais e gerar impacto **
+Meu objetivo é claro:  
+**ser o cara que as pessoas chamam quando o sistema trava e a regra de negócio parece impossível.**
 
+Eu não coleciono linguagens — coleciono soluções.  
+**E cada linha que eu escrevo carrega propósito técnico e visão de produto.**
 
 ###
 
@@ -91,5 +93,3 @@ Meu foco é claro:
   <img src="https://github-readme-stats.vercel.app/api?username=FredSS2323&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="128" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FredSS2323&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
