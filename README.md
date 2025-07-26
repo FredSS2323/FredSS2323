@@ -27,6 +27,7 @@ Se o problema é complexo, melhor ainda. É onde eu funciono melhor.
 ## 🚀 Stack de batalha
 
 **Back-end**
+##
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -40,6 +41,7 @@ Se o problema é complexo, melhor ainda. É onde eu funciono melhor.
 </div>
 
 **Front-end**
+##
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -51,6 +53,7 @@ Se o problema é complexo, melhor ainda. É onde eu funciono melhor.
 </div>
 
 **Bancos**
+##
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -64,6 +67,7 @@ Se o problema é complexo, melhor ainda. É onde eu funciono melhor.
 </div>
 
 **Ferramentas**
+##
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
