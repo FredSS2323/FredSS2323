@@ -87,9 +87,16 @@ Meu objetivo é claro:
 Eu não coleciono linguagens — coleciono soluções.  
 **E cada linha que eu escrevo carrega propósito técnico e visão de produto.**
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FredSS2323&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="128" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FredSS2323&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📊 Minhas estatísticas no GitHub
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=FredSS2323&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&locale=pt-br" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredSS2323&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&locale=pt-br" height="200" />
+    </td>
+  </tr>
+</table>
