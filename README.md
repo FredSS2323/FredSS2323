@@ -7,9 +7,12 @@ Estou me preparando para atuar como Engenheiro de Software, com visão de produt
 
 ## 👨‍💻 Um pouco sobre mim
 
-- Estudante de Engenharia de Computação
-- Curioso, autodidata e direto ao ponto
-- Aprendo rápido e gosto de transformar lógica em código útil
+🎓 Estudante de Engenharia de Computação (formação até 2026) | Técnico em Informática desde 2011  
+🛠️ Formado na prática com C, Delphi e HTML no bloco de notas.  
+🧠 Foco em Engenharia de Software: minha especialidade é pensar, não decorar stack.  
+🚀 Posso atuar com Web, Desktop, Mobile, Dados, IA, Segurança ou Embarcados — meu diferencial é entender como resolver o problema da forma certa.  
+📌 GitHub focado em projetos úteis e bem estruturados, que mostram lógica, arquitetura e visão de produto.
+
 
 ## 🚀 Stacks de batalha
 
