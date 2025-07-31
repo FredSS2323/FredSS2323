@@ -1,8 +1,9 @@
 # 👋 E aí, tudo certo? Eu sou o Frederico.
 
-Sou desenvolvedor fullstack com foco em resolver problemas reais.
-Gosto de codar, mas mais ainda de **entender o que o sistema precisa fazer** e entregar algo que funcione de verdade.
-
+Atuo na área de TI com um olhar técnico e prático.
+Tenho formação técnica e atualmente curso Engenharia de Computação. Ao longo dos anos, desenvolvi a habilidade de pensar como engenheiro: entender o problema, projetar a solução, escolher a tecnologia certa e entregar com qualidade.
+Domino C#, SQL, lógica de programação, estrutura de dados e algoritmos, mas mais do que linguagens, domino a arte de resolver problemas de verdade.
+Estou me preparando para atuar como Engenheiro de Software, com visão de produto, estrutura de código, legibilidade e escalabilidade.
 
 ## 👨‍💻 Um pouco sobre mim
 
