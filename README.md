@@ -1,13 +1,13 @@
 # 👋 E aí, tudo certo? Eu sou o Frederico.
 
 Atuo na área de TI com um olhar técnico e prático.
-Tenho formação técnica e atualmente curso Engenharia de Computação. Ao longo dos anos, desenvolvi a habilidade de pensar como engenheiro: entender o problema, projetar a solução, escolher a tecnologia certa e entregar com qualidade.
+Tenho formação técnica e atualmente sou Bacharel em Tecnologia da informaçao, curso Engenharia de Computação e Pós Graduaçao em Cibersegurança. Ao longo dos anos, desenvolvi a habilidade de pensar como engenheiro: entender o problema, projetar a solução, escolher a tecnologia certa e entregar com qualidade.
 Domino C#, SQL, lógica de programação, estrutura de dados e algoritmos, mas mais do que linguagens, domino a arte de resolver problemas de verdade.
 Estou me preparando para atuar como Engenheiro de Software, com visão de produto, estrutura de código, legibilidade e escalabilidade.
 
 ## 👨‍💻 Um pouco sobre mim
 
-🎓 Estudante de Engenharia de Computação (formação até 2026) | Técnico em Informática desde 2011  
+🎓 Bacharel em Tecnologia da Informaçao | Estudante de Engenharia de Computação (formação até 2026) | Estudante Pós Graduaçao em Cibersegurança | Técnico em Informática desde 2011  
 🛠️ Formado na prática com C, Delphi e HTML no bloco de notas.  
 🧠 Foco em Engenharia de Software: minha especialidade é pensar, não decorar stack.  
 🚀 Posso atuar com Web, Desktop, Mobile, Dados, IA, Segurança ou Embarcados — meu diferencial é entender como resolver o problema da forma certa.  
