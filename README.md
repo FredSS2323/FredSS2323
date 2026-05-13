@@ -67,19 +67,6 @@ Estou me preparando para atuar como Engenheiro de Software, com visão de produt
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FredSS2323&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&locale=pt-br" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FredSS2323&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
-    </td>
-  </tr>
-</table>
-
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=schiavonsbo@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
